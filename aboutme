@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <body>
+            <a href="Untitled-1.html">home</a>
+            <a href="contact">contact</a>
+            <ol>
+                <li>hamburger</li>
+                <li>pizza</li>
+                <li>french toast</li>
+            </ol>
+            <ul>
+                <li>my favorite song is collective concessness</li>
+                <li>my family has 3 teachers in it</li>
+                <li>i am 17 years old</li>
+            </ul>
+
+
+
+
+        </body>
+    </head>
+</html>
